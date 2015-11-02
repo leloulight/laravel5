@@ -12,10 +12,27 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        Model::unguard();
+        //Model::unguard();
 
-        // $this->call(UserTableSeeder::class);
+        $this->call(ProductsSeeder::class);
 
-        Model::reguard();
+        //Model::reguard();
+    }
+}
+
+class ProductsSeeder extends Seeder
+{
+    
+    public function run()
+    {
+        DB::table('products')->insert([
+            array('name' => 'Test products', 'cate_id' => 1, 'description' => 'Here is test product in Laravel 5', 'price' => 500000, 'created_at' => Carbon\Carbon::now()),
+            array('name' => 'Test products', 'cate_id' => 1, 'description' => 'Here is test product in Laravel 5', 'price' => 500000, 'created_at' => Carbon\Carbon::now()),
+            array('name' => 'Test products', 'cate_id' => 1, 'description' => 'Here is test product in Laravel 5', 'price' => 500000, 'created_at' => Carbon\Carbon::now()),
+            array('name' => 'Test products', 'cate_id' => 1, 'description' => 'Here is test product in Laravel 5', 'price' => 500000, 'created_at' => Carbon\Carbon::now()),
+            array('name' => 'Test products', 'cate_id' => 1, 'description' => 'Here is test product in Laravel 5', 'price' => 500000, 'created_at' => Carbon\Carbon::now()),
+            array('name' => 'Test products', 'cate_id' => 1, 'description' => 'Here is test product in Laravel 5', 'price' => 500000, 'created_at' => Carbon\Carbon::now()),
+            array('name' => 'Test products', 'cate_id' => 1, 'description' => 'Here is test product in Laravel 5', 'price' => 500000, 'created_at' => Carbon\Carbon::now()),
+        ]);
     }
 }

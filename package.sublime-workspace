@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"bas",
+				"base64_encode"
+			],
+			[
+				"f",
+				"foreach	foreach …"
+			],
+			[
+				"co",
+				"compact"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 393.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/laravel5/app/Http/routes.php",
+		"/var/www/html/laravel5/database/seeds/DatabaseSeeder.php",
+		"/var/www/html/laravel5/config/app.php",
+		"/var/www/html/laravel5/database/migrations/2015_10_28_015405_create_products_table.php",
+		"/var/www/html/laravel5/database/migrations/2015_10_28_015150_create_products_table.php",
+		"/var/www/html/laravel5/database/migrations/2015_10_28_012634_create_products_table.php",
+		"/home/silverthunder/Desktop/Really Hot Moaning Asian Pretty Girl Video Collection/Password.txt",
+		"/var/www/html/laravel5/resources/views/myself.blade.php",
+		"/boot/grub/grub.cfg",
+		"/var/www/html/laravel5/database/migrations/2015_10_27_140618_add_votes_to_thanhvien__table.php",
+		"/var/www/html/laravel5/.env",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/application/modules/st_frontend_account/controllers/St_frontend_account.php",
+		"/home/silverthunder/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/var/www/html/laravel5/resources/views/view.blade.php",
+		"/var/www/html/laravel5/app/Http/Controllers/WelcomeController.php",
+		"/var/www/html/laravel5/resources/views/view.php",
+		"/var/www/html/laravel5/resources/views/myself.php",
+		"/var/www/html/laravel5/app/Http/Controllers/Controller.php",
+		"/var/www/html/laravel5/app/Http/Controllers/Auth/AuthController.php",
+		"/var/www/html/laravel5/app/Http/Controllers/Auth/PasswordController.php",
+		"/var/www/html/laravel5/bootstrap/app.php",
+		"/var/www/html/laravel5/.htaccess",
+		"/var/www/html/.htaccess",
+		"/var/www/html/laravel5/.git/config",
+		"/home/silverthunder/.ssh/id_rsa.pub",
+		"/var/www/html/wpdev/wp-content/themes/masonic/header.php",
+		"/var/www/html/laravel5/public/.htaccess",
+		"/var/www/html/wpdev/wp-content/themes/twentyfifteen/header.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/application/core/ST_Model.php",
+		"/var/www/html/wpdev/wp-content/themes/Themeplate/index.html",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/system/core/Loader.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/application/modules/st_backend_categories/controllers/St_backend_categories.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/application/controllers/Welcome.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/system/core/Model.php",
+		"/home/silverthunder/.cache/.fr-f3CTJ3/Nedd/nedd.txt",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/application/helpers/sthelper_helper.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/system/core/CodeIgniter.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/system/core/Common.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/system/core/Exceptions.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/index.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/application/config/autoload.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/system/core/Config.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/application/config/constants.php",
+		"/home/silverthunder/netbeans-8.0.2/etc/netbeans.conf",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/application/config/database.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/system/core/Controller.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/system/database/DB.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/system/database/DB_cache.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/system/database/DB_query_builder.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/.htaccess",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/etc/apache2/sites-available/default-ssl.conf",
+		"/etc/apache2/apache2.conf",
+		"/etc/apache2/ports.conf",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/functions.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/core/init.php",
+		"/media/silverthunder/01D0AC7C584FEEA0/Web/Host/xampp/htdocs/granada/application/modules/st_template/views/Vfronend_default.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/404.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/author.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/style.css",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/templates/contact.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/content-none.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/archive.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/search.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/sidebar.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/templates/full-width.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/single.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/index.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/header.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/footer.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/page.php",
+		"/var/www/html/wpdev/wp-content/themes/sttheme/content.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_ci_load",
+			"_ci_object_to_array",
+			"config_item",
+			"application_folder",
+			"SELF",
+			"AllowOverride None",
+			"AllowOverride All",
+			"#LoadModule rewrite_module modules/mod_rewrite.so"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"AllowOverride All"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
