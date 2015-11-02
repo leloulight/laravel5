@@ -85,5 +85,5 @@ Route::get('products/get-all', function() {
 });
 
 $router->get('get/products', function(App\products $products) {
-	$products::where('price', '<', 500000)->delete();
+	$products::where('price', '=', 500000)->delete();
 });
